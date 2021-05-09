@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KqNote</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录或注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">用户名不存在</string>
+    <string name="invalid_password">密码长度>5</string>
+    <string name="login_failed">"登录失败"</string>
+    <string name="note_table">便签列表</string>
+    <string name="note_number">便签个数</string>
+    <string name="weather">天气预报</string>
+    <string name="account_manager">账号管理</string>
+    <string name="title_activity_weather">weather</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="back">返回</string>
+    <string name="note_tips">请输入便签内容</string>
+</resources>
